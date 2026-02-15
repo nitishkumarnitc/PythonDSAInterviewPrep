@@ -1,6 +1,6 @@
 # Python + DSA Interview Prep Suite
 
-A curated set of Python and data-structures/algorithms (DSA) resources designed for FAANG / DE Shaw–style technical interviews.
+A curated set of Python and data-structures/algorithms (DSA) resources designed for FAANG style technical interviews.
 
 This repo is meant to be used as a **practice workbook**: you solve the questions in the notebooks, then compare against compact and detailed model solutions and reference implementations.
 
