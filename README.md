@@ -86,6 +86,25 @@ You can freely add your own notebooks or scripts (e.g., `experiments/`, `notes/`
 
 ---
 
+## Open directly in Google Colab
+
+Click these links to launch the notebooks in Google Colab. They are regular
+links; use your browser's "open in new tab" if you want them in a separate
+tab.
+
+- Python fundamentals questions:
+  - <a href="https://colab.research.google.com/github/nitishkumarnitc/PythonDSAInterviewPrep/blob/main/pythonprep.ipynb" target="_blank" rel="noopener noreferrer">Open `pythonprep.ipynb` in Colab</a>
+- Python fundamentals solutions:
+  - <a href="https://colab.research.google.com/github/nitishkumarnitc/PythonDSAInterviewPrep/blob/main/pythonprep_solutions.ipynb" target="_blank" rel="noopener noreferrer">Open `pythonprep_solutions.ipynb` in Colab</a>
+- Python drills:
+  - <a href="https://colab.research.google.com/github/nitishkumarnitc/PythonDSAInterviewPrep/blob/main/pythonprep_drills.ipynb" target="_blank" rel="noopener noreferrer">Open `pythonprep_drills.ipynb` in Colab</a>
+- DSA questions:
+  - <a href="https://colab.research.google.com/github/nitishkumarnitc/PythonDSAInterviewPrep/blob/main/DSA/dsa_prep.ipynb" target="_blank" rel="noopener noreferrer">Open `DSA/dsa_prep.ipynb` in Colab</a>
+- DSA solutions:
+  - <a href="https://colab.research.google.com/github/nitishkumarnitc/PythonDSAInterviewPrep/blob/main/DSA/dsa_prep_solutions.ipynb" target="_blank" rel="noopener noreferrer">Open `DSA/dsa_prep_solutions.ipynb` in Colab</a>
+
+---
+
 ## Initial Git setup (local)
 
 If you havent already initialized a git repo here, you can do:
@@ -110,6 +129,3 @@ git push -u origin main
 - Extend detailed Python solutions to cover all 50 questions.
 - Extend detailed DSA solutions to cover all defined problems (and optionally grow to a 50-problem DSA set).
 - Add simple unit tests for the reference DSA functions.
-
-# PythonDSAInterviewPrep
-# PythonDSAInterviewPrep
